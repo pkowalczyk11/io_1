@@ -6,3 +6,8 @@ bok_a = 3
 bok_b = 7
 pole_prostokąta = bok_a * bok_b
 print(pole_prostokąta)
+
+podstawa = 10
+wysokość = 3
+pole_trójkąta = (podstawa * wysokość)/2
+print(pole_trójkąta)
