@@ -3,7 +3,7 @@
 Test składni Markdown  
 Tutaj normalny tekst
 
-###Tutaj mniejszy header
+### Tutaj mniejszy header
 
 **Pogrubione**  
 *Kursywa*  
